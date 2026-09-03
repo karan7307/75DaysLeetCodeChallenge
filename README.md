@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [1840-maximum-building-height](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
