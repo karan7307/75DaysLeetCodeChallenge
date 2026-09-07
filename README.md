@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0940-distinct-subsequences-ii](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2573-find-the-string-with-lcp](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/karan7307/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 ## Union-Find
 |  |
